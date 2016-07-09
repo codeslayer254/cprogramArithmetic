@@ -2,7 +2,7 @@
 
 # Simple C Program Arithmetic Calculator
 
-This Application provides efficient algorithms for a C application using a 
+This application provides efficient algorithms for a C application using a 
 structured approach to programming in these scenarios:
 
 Program provides the follwoing options in the main Menu:
