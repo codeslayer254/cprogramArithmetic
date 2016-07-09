@@ -2,11 +2,10 @@
 
 # Simple C Program Arithmetic Calculator
 
-The Application provides efficient algorithms for a C application using a 
-structured approach to programming in the folloing scenarios:
+This Application provides efficient algorithms for a C application using a 
+structured approach to programming in these scenarios:
 
-Simple Arithmetic Calculator
-Provides the follwoing options in the main Menu:
+Program provides the follwoing options in the main Menu:
 1. Fibonacci
 2. Arithmetic
 3. Exit
