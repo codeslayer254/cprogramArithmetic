@@ -25,7 +25,7 @@ Program provides the follwoing options in the main Menu:
 **Microsoft Visual Studio:** >2008
 
 ### Installation & Set Up Guide
-**Installtion Steps:**
+
 1. Download the project to your local repository directory.
 
 2. Import the project as an existing Visual Sttudio project.
