@@ -7,7 +7,9 @@ structured approach to programming in these scenarios:
 
 Program provides the follwoing options in the main Menu:
 1. Fibonacci
+
 2. Arithmetic
+
 3. Exit
 
 ### Fibonacci
