@@ -27,7 +27,9 @@ Program provides the follwoing options in the main Menu:
 ### Installation & Set Up Guide
 **Installtion Steps:**
 1. Download the project to your local repository directory.
-2. Import the project as an existing Visual Sttudio project
+
+2. Import the project as an existing Visual Sttudio project.
+
 3. Click Run to launch the application
 
 ### Version
